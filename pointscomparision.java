@@ -24,7 +24,20 @@ public class pointscomparision {
         l2.ep2.x=70;
         l2.ep2.y=200;
         float length1 =l2.calculateLength();
-        System.out.println("length2"+length2;
+        System.out.println("length2"+length2);
+        System.out.println(length1+.equals"+length2+":"+length1.equals(length2));" +)
+        System.out.println("Both line are equal:");
+
+
+        System.out.println(length1+".compareTo+length2+":"+length1.compare");
+        if(length1==length2){
+            System.out.println("Both  lines are equal");
+            else{
+                System.out.println("Both lines are not eqaual");
+            }
+        }
+
+
     }
 }
 }
