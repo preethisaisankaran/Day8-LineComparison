@@ -1,7 +1,10 @@
 package linecomparison;
 
 public class pointscomparision {
-    int l1.ep1;cd ..
+    public static void main(String[] args){
+    System.out.println("Welcome to line comparison");
+    int l1.ep1;
+
 
     int l1.ep1;{
         line l1=new line();
